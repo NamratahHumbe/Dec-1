@@ -7,7 +7,7 @@ function Shop() {
   return (  
    <div>
       <Pagename name='OUR SHOP'/>
-            <div class="col-lg-3 col-md-12">
+            <div className="col-lg-3 col-md-12">
                 <PriceFilter/>
                 <ColorFilter/>
                 <SizeFilter/>

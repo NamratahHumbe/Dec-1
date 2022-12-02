@@ -12,7 +12,7 @@ function Home() {
       <Feature/>
       <Categories/>
       <Offers/>
-      <TrandyProduct/>
+      <TrandyProduct name='Trandy Products'/>
       <StayUpdated/>
       <JustArrived/>
       <Vendor/>
